@@ -3,4 +3,4 @@
 
 This repository contains the original generated datasets from the manuscript:
 
-"The role of System 1 and System 2 semantic memory structure in human and LLM biases."
+"The role of System 1 and System 2 semantic memory structure in human and LLM biases"
